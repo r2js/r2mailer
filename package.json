@@ -1,7 +1,7 @@
 {
   "name": "r2mailer",
   "description": "Mailer service for r2js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Selçuk Fatih Sevinç",
   "license": "MIT",
   "engines": {
@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "debug": "^2.6.3",
-    "nodemailer": "^3.1.8",
-    "nodemailer-smtp-pool": "^2.8.2"
+    "nodemailer": "^4.0.1",
+    "nodemailer-smtp-pool": "^2.8.3"
   },
   "devDependencies": {
     "chai": "^3.5.0",
